@@ -58,5 +58,8 @@ A **web-based system** with the following modules:
 ## 📌 Conclusion
 This **web-based system** will revolutionize AK Maju Resources' workflow by automating tasks, improving accuracy, and enhancing customer satisfaction. 🚀  
 
+## 📹 User Manual Video  
+[📺 Watch the User Manual Video](https://drive.google.com/drive/folders/1MziaI0VT8vr9VvaglyJqu8nc09Amk_nP?usp=sharing)  
+
 ---
 👥 **Prepared by:** Unicode Team  
